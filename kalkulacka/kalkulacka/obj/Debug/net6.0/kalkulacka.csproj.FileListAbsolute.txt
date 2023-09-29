@@ -1,0 +1,14 @@
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.exe
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.deps.json
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.runtimeconfig.json
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.dll
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\bin\Debug\net6.0\kalkulacka.pdb
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfoInputs.cache
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfo.cs
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.csproj.CoreCompileInputs.cache
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.dll
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\refint\kalkulacka.dll
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.pdb
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\kalkulacka.genruntimeconfig.cache
+Z:\Desktop\III.BI.C#\III.BI-C\kalkulacka\kalkulacka\obj\Debug\net6.0\ref\kalkulacka.dll
